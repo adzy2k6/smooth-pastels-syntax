@@ -1,7 +1,7 @@
 {
   "name": "smooth-pastels-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A theme designed using nice pastel colours. Mainly tuned around C and low level languages.",
   "keywords": [
     "syntax",
