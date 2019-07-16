@@ -1,13 +1,13 @@
 {
   "name": "Smooth Pastels",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A theme designed using nice pastel colours. Mainly tuned around C and low level languages.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/adzy2k6/smooth-pastels-syntax.git",
+  "repository": "https://github.com/adzy2k6/smooth-pastels-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
